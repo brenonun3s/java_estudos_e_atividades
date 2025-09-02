@@ -2,7 +2,7 @@ package algoritmos_ordenacao;
 
 public class BubbleSortAnalise {
  public static void main(String[] args) {
-  int[] vetor = { 1,2,3,4,5 };
+  int[] vetor = {1,2,3,4,5,6,7,8};
   int comparacoes = 0;
   for (int i = 0; i < vetor.length - 1; i++) {
    for (int j = 0; j < vetor.length - 1 - i; j++) {

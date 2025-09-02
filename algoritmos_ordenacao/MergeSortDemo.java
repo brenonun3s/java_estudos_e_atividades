@@ -42,7 +42,7 @@ public class MergeSortDemo {
  }
 
  public static void main(String[] args) {
-  int[] vetor = { 3, 5, 2, 4, 1 };
+  int[] vetor = { 1,2,3,4,5,6,7,8 };
   System.out.println("Vetor original:");
   for (int v : vetor)
    System.out.print(v + " ");
