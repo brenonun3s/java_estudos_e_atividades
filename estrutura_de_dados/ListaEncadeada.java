@@ -86,4 +86,10 @@ public class ListaEncadeada<TIPO> {
     }
   }
 
+  public IteratorListaLigada<TIPO> getIterator(){
+    return new IteratorListaLigada<TIPO>(this.primeiro);
+  }
+
+
+
 }
