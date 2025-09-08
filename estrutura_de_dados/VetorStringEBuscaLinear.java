@@ -1,5 +1,3 @@
-package estrutura_de_dados;
-
 import java.util.Scanner;
 
 public class VetorStringEBuscaLinear {

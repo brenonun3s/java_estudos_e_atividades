@@ -1,4 +1,3 @@
-package estrutura_de_dados;
 
 public class IteratorListaLigada<TIPO> {
  private Node<TIPO> node;

@@ -1,4 +1,4 @@
-package estrutura_de_dados;
+package algoritmos_ordenacao;
 
 public class SelectionSort {
 
