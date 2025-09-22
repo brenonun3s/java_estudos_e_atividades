@@ -47,6 +47,19 @@ public class ListaEncadeada<TIPO> {
     tamanho++;
   }
 
+  public void adicionarComeco(TIPO novoValor){
+    Node<TIPO> node = new Node<TIPO>(novoValor);
+
+    if (primeiro == null && ultimo == null) {
+      primeiro = node;
+      ultimo = node;
+    } else {
+      node.setProximo(this.primeiro);
+      this.primeiro = node;
+    }
+    tamanho++;
+  }
+
   public Node<TIPO> get(int posicao) {
     Node<TIPO> atual = this.primeiro;
     for (int i = 0; i < posicao; i++) {
