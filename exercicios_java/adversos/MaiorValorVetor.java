@@ -1,3 +1,4 @@
+package exercicios_java.adversos;
 import java.util.Scanner;
 
 /* EXERCICIO 1 -> Escreva um programa que leia 10 números inteiros e os armazene em um vetor. 

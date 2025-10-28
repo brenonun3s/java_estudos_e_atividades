@@ -1,3 +1,5 @@
+package exercicios_java.adversos;
+
 public class Exercicio_I {
 
   public static void bubbleSort(int[] vetor) {

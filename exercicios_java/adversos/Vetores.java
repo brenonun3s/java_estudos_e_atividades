@@ -1,3 +1,5 @@
+package exercicios_java.adversos;
+
 import java.util.Scanner;
 
 /* Implemente uma função para ler N números inteiros no intervalo [0, 50] e os armazene em um vetor com 100 posições. 

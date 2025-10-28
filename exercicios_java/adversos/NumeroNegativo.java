@@ -1,3 +1,5 @@
+package exercicios_java.adversos;
+
 import java.util.Scanner;
 
 // EXERCICIO 3 - Leia um vetor de 10 posições e atribua o valor 0 para todos os elementos que possuírem valores negativos

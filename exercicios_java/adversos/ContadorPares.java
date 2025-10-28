@@ -1,3 +1,4 @@
+package exercicios_java.adversos;
 import java.util.Scanner;
 
 /* EXERCICIO 2 - Leia um vetor de 10 posições. Conte e escreva quantos valores pares ele possui */
