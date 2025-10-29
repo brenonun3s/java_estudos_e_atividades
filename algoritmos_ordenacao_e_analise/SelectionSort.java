@@ -1,4 +1,4 @@
-package algoritmos_ordenacao;
+package algoritmos_ordenacao_e_analise;
 
 public class SelectionSort {
 

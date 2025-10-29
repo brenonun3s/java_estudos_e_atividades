@@ -1,4 +1,4 @@
-package algoritmos_ordenacao;
+package algoritmos_ordenacao_e_analise;
 
 import java.util.Arrays;
 import java.util.Random;
